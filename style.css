@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.heading-font{
+    font-size: 50px;
+    font-weight: 700;
+    color: dimgrey;
+}
+.orange-color{
+    color: darkorange;
+}
+.paragraph-design{
+    color: gray;
+    font-size: 20px;
+}
+.button-color{
+    background-image: linear-gradient(tomato,orange);
+    padding: 10px 30px;
+    border-radius: 30px;
+    color: white;
+    border: none;
+    font-size: 20px;
+}
+.eat-healthy{
+    display: flex;
+    
+}
+.half-width{
+    width: 50%;
+    margin-right: 5%;
+    
+}
+.margin-modify img{
+    height: 600px;
+    margin-bottom: 150px;
+}
+.use-top-margin{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.female-section{
+    display: flex;
+    background-image: url(eat-healthy-main/images/shapes/Frame\ 58.jpg);
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.female-width{
+    width: 50%;
+    margin-left: 150px;
+}
+.lorem-width{
+    width: 50%;
+    margin-right: 100px;
+    margin-top: 90px;
+}
+.female-width img{
+    height: 400px;
+    margin-top: 50px;
+   
+}
+.lorem-heading{
+    font-size: 30px;
+    font-weight: 900;
+    color: grey;
+}
+.lorem-paragraph{
+    font-size: 20px;
+    color: lightslategrey;
+}
+.recipe-heading{
+    text-align: center;
+    font-size: 50px;
+    color: dimgrey;
+}
+.recipe-paragraph{
+    text-align: center;
+}
+.recipe-title{
+    font-size:30px;
+    font-weight: 700;
+}    
+.recipe-display{
+    display: flex;
+    
+    
+}        
+.recipe-width{
+    width: 50%;
+    margin-left: 41px;
+    margin-right: 30px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 6px 2px gray;
+    padding-left: 28px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+}
+.recipe-width img{
+    height: 308px;
+    width:500px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
