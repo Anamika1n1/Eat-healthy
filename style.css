@@ -103,9 +103,33 @@ body{
     width:500px;
     border-radius: 10px;
 }
-
-
-
-
+.subscriber-site{
+    font-size: 50px;
+    font-weight: 700;
+}
+.subscriber-display{
+    display: flex;
+    margin-top: 80px;
+    margin-bottom: 57px;
+    margin-left: 50px;
+    margin-right: 50px;
+    box-shadow: 5px 5px 5px 5px lightgrey;
+    border-radius: 20px;
+}
+.subscriber-margin{
+    margin-left: 200px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+.eat-color{
+    color: orange;
+}
+.footer-design{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
 
 
